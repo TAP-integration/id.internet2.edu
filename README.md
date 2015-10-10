@@ -1,2 +1,2 @@
 # taHome
-Repo  for TIER-API artifacts
+Repo for TIER Data Structures and APIs Working Group artifacts
