@@ -1,4 +1,4 @@
-## Welcome to TIER API Guidelines
+## Welcome to InCommon TAP API Guidelines
 
 ### Why Guidelines for Shared APIs in Higher Education and Research?
 
