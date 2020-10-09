@@ -1,4 +1,3 @@
-# taHome
-Repo for TAP Data Structures and APIs Working Group artifacts
+# id.internet2.edu
+Github pages repo for id.internet2.edu, the site for the registry of Internet2 persistent identifiers
 
-Created 2015-10-10   khazelton
